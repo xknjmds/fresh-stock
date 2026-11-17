@@ -350,7 +350,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 El Jhon Braña — [LinkedIn](https://www.linkedin.com/in/el-jhon-bra%C3%B1a-73956a339)
 
-Live System: [https://https://eljhonbrana.freedev.app/](https://https://eljhonbrana.freedev.app/)
+Live System: [https://https://eljhonbrana.freedev.app/](https://eljhonbrana.freedev.app/)
 
 Project Link: [https://github.com/xknjmds/fresh-stock](https://github.com/xknjmds/fresh-stock)
 
