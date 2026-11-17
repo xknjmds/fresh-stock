@@ -102,6 +102,7 @@ This project demonstrates a responsive Bootstrap 5 front end, full CRUD operatio
 | **Course** | ITPE3124 — Web System Technologies |
 | **Instructor** | Prof. Kenth Joshua Espina |
 | **Developer** | El Jhon O. Braña |
+| **Program, Year & Section** | BSIT 3A-SD | 
 | **Stack** | PHP, MySQL, HTML, CSS, Bootstrap 5 |
 | **Hosting** | InfinityFree |
 
