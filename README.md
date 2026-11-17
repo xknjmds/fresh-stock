@@ -33,7 +33,7 @@
     <a href="#usage"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://https://eljhonbrana.freedev.app/">View Live Demo</a>
+    <a href="https://eljhonbrana.freedev.app/">View Live Demo</a>
     &middot;
     <a href="https://github.com/xknjmds/fresh-stock/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
     &middot;
