@@ -1,0 +1,17 @@
+<?php
+/**
+ * logout.php — Destroy the session and return to the login page.
+ */
+require_once __DIR__ . '/includes/auth.php';
+
+$_SESSION = [];
+if (ini_get('session.use_cookies')) {
+    $p = session_get_cookie_params();
+    setcookie(session_name(), '', time() - 42000, $p['path'], $p['domain'], $p['secure'], $p['httponly']);
+}
+session_destroy();
+
+// Start a fresh session just to carry the goodbye message.
+session_start();
+flash('info', 'You have been logged out.');
+redirect('login.php');
